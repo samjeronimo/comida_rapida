@@ -1,0 +1,120 @@
+.cuadro2 {
+    width: 415px;
+    height: 548px;
+    padding: 20px;
+    gap: 16px;
+}
+
+.titi {
+    width: 410px;
+    height: 28px;
+    gap: 16px;
+    font-size: 23px;
+    color: #404040;
+}
+
+.supercuadro {
+    width: 402px;
+    height: 464px;
+    gap: 24px;
+    margin: 30px auto;   
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.cuadro_imagen {
+    width: 401px;
+    height: 98px;
+    gap: 16px;
+}
+
+.cuadro_imagen img {
+    width: 96px;
+    border-radius: 12px;
+}
+
+.chiqui {
+    width: 169px;
+    height: 98px;
+    gap: 8px;
+
+    margin: -102px auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.lol {
+    color: gray;
+}
+
+.lol2 {
+    color: gray;
+}
+
+.hora {
+    display: flex;
+    align-items: center;
+    color: gray;
+}
+
+.green {
+    width: 60px;
+    height: 22px;
+    font-size: 13px;
+    border-radius: 8px;
+    background-color: #C3E8D8;
+    gap: 4px;
+    padding: 2px 4px 2px 4px;
+    margin: -8px 0px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dinero {
+    width: 48px;
+    height: 38px;
+    gap: 8px;
+    margin: -98px 230px;
+    font-size: 33px;
+    color: red;
+}
+
+.chiqui2 {
+    width: 169px;
+    height: 98px;
+    gap: 8px;
+
+    margin: -102px auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.dinero2 {
+    width: 48px;
+    height: 38px;
+    gap: 8px;
+    margin: -98px 214px;
+    font-size: 33px;
+    color: red;
+}
+
+.green2 {
+    width: 60px;
+    height: 22px;
+    font-size: 13px;
+    border-radius: 8px;
+    background-color: #F6D1D1;
+    gap: 4px;
+    padding: 2px 4px 2px 4px;
+    margin: -8px 0px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

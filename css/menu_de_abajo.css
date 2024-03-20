@@ -1,0 +1,67 @@
+.cuadro3 {
+    width: 455px;
+    height: 88px;
+    gap: 2px;
+}
+
+.logos {
+    width: 422px;
+    height: 52px;
+    padding: 0px 16px 0px 16px;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.divisiones {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divisiones2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.divi-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+}
+
+.divi-img2 {
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linea {
+    width: 5px;
+    height: 2px;
+    border-radius: 4px;
+
+    background-color: red;  
+}
+
+.nombres {
+    width: 422px;
+    height: 20px;
+    margin: auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.minidivi {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+}

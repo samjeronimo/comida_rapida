@@ -1,0 +1,80 @@
+.cuadro1 {
+    width: 455px;
+    height: 176px;
+    gap: 4px;
+}
+
+.minicuadro {
+    width: 415px;
+    height: 44px;
+    padding: 0px 20px 0px 20px;
+}
+
+.minicuadro2 {
+    width: 383px;
+    height: 56px;
+    padding: 8px 36px 8px 36px;
+    gap: 12px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.minicuadro3 {
+    width: 415px;
+    height: 56px;
+    padding: 0px 20px 0px 20px;
+    gap: 8px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.megacuadro {
+    width: 106.33px;
+    height: 32px;
+    border-radius: 24px;
+    padding: 6px 12px 6px 12px;
+    gap: 8px;
+    background-color:  #c1bfbf;
+    font-size: 17px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.megacuadro2 {
+    width: 106.33px;
+    height: 32px;
+    border-radius: 24px;
+    padding: 6px 12px 6px 12px;
+    gap: 8px;
+    background-color: #EB4D57;
+    font-size: 18px;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nam {
+    width: 287px;
+    height: 36px;
+    font-size: 30px;
+}
+
+.lupa {
+    width: 36px;
+    height: 36px;
+    background-color: #c1bfbf;
+    border-radius: 20px;
+
+    margin: -34.8px 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

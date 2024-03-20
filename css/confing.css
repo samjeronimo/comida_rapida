@@ -1,0 +1,9 @@
+html {
+    font-family: monospace;
+}
+
+.pantalla {
+    max-width: 37.5rem;
+    margin: auto;
+    padding: 10px;
+}
